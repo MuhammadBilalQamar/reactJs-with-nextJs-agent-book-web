@@ -1,0 +1,11 @@
+.landingPageContainer {
+  padding: 0 2rem;
+  background-color: red;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,274 @@
+.hero-real-estate-agent-inviting-you-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 734px;
+  object-fit: cover;
+}
+
+.hero-find-the-perfect-real-estate-a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 50px;
+  font-weight: 800;
+  display: inline-block;
+}
+
+.hero-make-your-search-and-sale-easi {
+  position: absolute;
+  top: 65px;
+  left: 39px;
+  font-size: var(--others-badge-label-size);
+  line-height: 30px;
+  font-family: var(--others-badge-label);
+  text-align: center;
+  display: inline-block;
+  width: 779px;
+}
+
+.hero-group-div1 {
+  position: absolute;
+  top: 0;
+  left: 102px;
+  width: 857px;
+  height: 125px;
+}
+.hero-rectangle-input,
+.hero-text-input {
+  border: 0;
+  position: absolute;
+  outline: none;
+  top: 0;
+}
+
+.hero-rectangle-input {
+  background-color: var(--default-white);
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  box-shadow: 0 20px 30px rgba(59, 40, 204, 0.07);
+}
+
+.hero-text-input {
+  font-family: var(--others-badge-label);
+  font-size: var(--others-badge-label-size);
+  background-color: transparent;
+  left: 100%;
+  width: 760px;
+  line-height: 20px;
+  color: var(--color-gray-500);
+  text-align: left;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.hero-vector-icon {
+  position: absolute;
+  height: 105%;
+  width: 61.76%;
+  top: -5%;
+  right: 41.18%;
+  bottom: 0;
+  left: -2.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.hero-group-div2 {
+  position: absolute;
+  height: 23.26%;
+  width: 3.2%;
+  top: 38.37%;
+  right: 93.97%;
+  bottom: 38.37%;
+  left: 2.83%;
+}
+
+.hero-search-agents-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 25px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: var(--others-badge-label);
+  color: var(--default-white);
+  text-align: left;
+  display: inline-block;
+}
+
+.hero-frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-lg) var(--padding-md);
+  background-color: var(--primary-blue);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-group-div5 {
+  position: absolute;
+  height: 69.77%;
+  width: 16.87%;
+  top: 15.12%;
+  right: 1.23%;
+  bottom: 15.12%;
+  left: 81.9%;
+}
+
+.hero-group-div,
+.hero-group-icon,
+.hero-search-bar-div {
+  position: absolute;
+  top: 160px;
+  left: 0;
+  width: 1061px;
+  height: 86px;
+}
+
+.hero-group-div,
+.hero-group-icon {
+  top: 30%;
+  left: 20%;
+  height: 246px;
+}
+
+.hero-group-icon {
+  top: 190px;
+  left: 1060px;
+  width: 254px;
+  height: 449px;
+  display: none;
+}
+
+.hero-rectangle-input1 {
+  border: 0;
+  background-color: var(--color-gray-400);
+  position: absolute;
+  top: 713px;
+  left: 165px;
+  width: 239px;
+  height: 56px;
+}
+
+.hero-frame-div,
+.hero-rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.hero-frame-div {
+  width: 100%;
+  height: 556px;
+  overflow: hidden;
+}
+
+.hero-rectangle-div {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+
+.hero-group-icon1 {
+  position: absolute;
+  width: 14.78%;
+  top: 1px;
+  right: 85.22%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 41.34px;
+}
+
+.hero-group-icon2 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: 13.2px;
+  width: 69.2px;
+  height: 25px;
+}
+
+.hero-frame-button1 {
+  cursor: pointer;
+  border: 1px solid var(--color-gray-1100);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-lg);
+  box-sizing: border-box;
+  width: 95px;
+  height: 44px;
+}
+
+.hero-frame-icon {
+  cursor: pointer;
+  width: 28.21%;
+  top: 0;
+  right: 71.79%;
+  left: 0;
+  border-radius: var(--br-lg);
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.hero-frame-icon,
+.hero-group-div7,
+.hero-group-div8 {
+  position: absolute;
+  height: 44px;
+}
+
+.hero-group-div8 {
+  right: 0;
+  bottom: 0;
+  width: 159.73px;
+}
+
+.hero-group-div7 {
+  width: 93.47%;
+  top: 21px;
+  right: 3.27%;
+  left: 3.26%;
+}
+
+.hero-group-div6 {
+  position: absolute;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  height: 87px;
+}
+
+.hero-three-div {
+  position: relative;
+  height: 562px;
+  overflow: hidden !important;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--default-white);
+  font-family: var(--font-lato);
+}

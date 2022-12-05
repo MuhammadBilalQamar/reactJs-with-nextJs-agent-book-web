@@ -1,0 +1,156 @@
+.profilecss-my-profile-div {
+  position: absolute;
+  top: calc(50% - 5.39px);
+  left: 24px;
+  line-height: 10px;
+  display: inline-block;
+}
+.profilecss-vector-icon {
+  position: absolute;
+  height: 100%;
+  width: 15.38%;
+  top: 0;
+  right: 84.62%;
+  opacity: 0.6;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.profilecss-group-div {
+  position: relative;
+  width: 91px;
+  height: 14.78px;
+  flex-shrink: 0;
+}
+.profilecss-frame-div2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+}
+.profilecss-change-password-div {
+  position: absolute;
+  top: calc(50% - 4.58px);
+  left: 24px;
+  line-height: 10px;
+  display: inline-block;
+}
+.profilecss-vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 8.55%;
+  top: 0;
+  right: 91.45%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.profilecss-group-div1 {
+  position: relative;
+  width: 152px;
+  height: 15.17px;
+  flex-shrink: 0;
+}
+.profilecss-frame-div3 {
+  position: absolute;
+  width: 100%;
+  top: 44.78px;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+}
+.profilecss-logout-div {
+  position: absolute;
+  top: calc(50% - 5.35px);
+  left: 25px;
+  line-height: 10px;
+  display: inline-block;
+}
+.profilecss-vector-icon2 {
+  position: absolute;
+  height: 100.01%;
+  width: 20.55%;
+  top: 0;
+  right: 79.45%;
+  bottom: -0.01%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.profilecss-group-div2 {
+  position: relative;
+  width: 73px;
+  height: 12.69px;
+  flex-shrink: 0;
+}
+.profilecss-frame-div4 {
+  position: absolute;
+  width: 100%;
+  top: 89.94px;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  color: #f2765d;
+}
+.profilecss-frame-div,
+.profilecss-frame-div1 {
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  height: 133px;
+}
+.profilecss-frame-div1 {
+  position: absolute;
+  right: -25px;
+  bottom: 0;
+  width: 200px;
+}
+.profilecss-frame-div {
+  position: relative;
+  top: 50px;
+  box-shadow: var(--dropdown);
+  width: 100%;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--profile-font-size-base);
+  color: var(--text-black);
+  font-family: var(--font-poppins);
+}
+
+.profilecss-frame-div2:hover {
+  cursor: pointer;
+  background-color: var(--primary-blue);
+  color: var(--color-white);
+}
+
+.profilecss-frame-div3:hover {
+  cursor: pointer;
+  background-color: var(--primary-blue);
+  color: var(--color-white);
+}
+
+.profilecss-frame-div4:hover {
+  cursor: pointer;
+  background-color: #f2765d;
+  color: var(--color-white);
+}

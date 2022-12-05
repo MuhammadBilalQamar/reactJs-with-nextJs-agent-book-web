@@ -1,0 +1,81 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Popins, sans-serif !important;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  /* fonts */
+  --others-badge-label: Poppins;
+  --font-lato: Lato;
+  --font-open-sans: "Open Sans";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --profile-font-size-base: 14px;
+  --font-size-lg: 20px;
+  --font-size-xs: 14px;
+  --font-size-sm: 16px;
+  --font-size-base: 18px;
+  --others-badge-label-size: 20px;
+  --font-size-xl: 22px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 35px;
+  --font-size-4xl: 55px;
+
+  /* Colors */
+  --neutrals-location: #73757e;
+  --heading-color: #231f20;
+  --color-white: #fff;
+  --text-black: #232a43;
+  --main-blue: #4b6df3;
+  --color-gray-100: #fbfcff;
+  --color-gray-200: #f2f2f2;
+  --text-gray-300: #d9dbe1;
+  --color-gray-400: #d9d9d9;
+  --color-gray-500: #9895ab;
+  --neutrals-small-info: #73757e;
+  --color-gray-700: #62616f;
+  --name-color: #232a43;
+  --black-lightest: rgba(0, 0, 0, 0.1);
+  --color-gray-1000: rgba(255, 255, 255, 0.6);
+  --color-gray-1100: rgba(255, 255, 255, 0.8);
+  --primary-blue: #4b6df3;
+  --default-white: #fff;
+  --color-gray-900: rgba(255, 255, 255, 0.8);
+  --black-light: rgba(0, 0, 0, 0.5);
+  --color-gray-1200: rgba(255, 255, 255, 0.6);
+  --dark-blue: #12182d;
+  --lite-blue: #e7ecfd;
+  --outline-color: #bdc2d3;
+
+  /* Gaps */
+  --gap-md: 10px;
+  --gap-sm: 10px;
+
+  /* Paddings */
+  --padding-xs: 8px;
+  --padding-sm: 12px;
+  --padding-md: 20px;
+  --padding-lg: 25px;
+
+  /* border radiuses */
+  --br-sm: 2px;
+  --br-md: 4px;
+  --br-lg: 5px;
+
+  /* Effects */
+  --big-shadow: 0px 20px 30px rgba(59, 40, 204, 0.07);
+  --drop: 0px 10px 50px rgba(0, 24, 68, 0.1);
+  --dropdown: 0px 10px 10px rgba(54, 59, 79, 0.1);
+}

@@ -1,0 +1,120 @@
+.cntry-country-options-div,
+.cntry-frame-div15 {
+  border-radius: var(--br-md);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+}
+
+.cntry-country-options-div {
+  position: relative;
+  top: 50px;
+  right: 170px;
+  background-color: var(--color-white);
+  width: 135%;
+  height: 452px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--text-black);
+  font-family: var(--font-poppins);
+}
+
+.cntry-frame-div {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 200px;
+  height: 392px;
+  overflow-y: auto;
+}
+
+.cntry-frame-div1 {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-sm) var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.cntry-group-div {
+  position: relative;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 84px;
+  height: 14.44px;
+  flex-shrink: 0;
+}
+
+.cntry-albania-div {
+  position: absolute;
+  top: calc(50% - 4.44px);
+  left: 30px;
+  line-height: 10px;
+  display: inline-block;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+
+.cntry-group-icon {
+  position: absolute;
+  height: 100.01%;
+  width: 23.81%;
+  top: 0;
+  right: 76.19%;
+  bottom: -0.01%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+
+.cntry-country-options-div,
+.cntry-frame-div15 {
+  overflow: auto;
+  border-radius: var(--br-md);
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+}
+.cntry-frame-div15 {
+  width: 94.53%;
+  position: relative;
+  margin-bottom: 25px;
+  top: 10px;
+  margin-left: 5px;
+  border: 1px solid var(--lite-blue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-sm) var(--padding-md);
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+  color: var(--thick-outline-color);
+}
+
+.cntry-vector-icon {
+  position: relative;
+  width: 13px;
+  height: 13px;
+  flex-shrink: 0;
+}
+
+.cntry-search-country-div {
+  position: relative;
+  line-height: 10px;
+  border: none;
+  display: inline-block;
+  outline: none;
+  overflow: hidden;
+}
+
+.CountryListDiv {
+  display: flex;
+  margin: 12px;
+}
+
+.CountryName {
+  margin-left: 10px;
+  font-size: 16px;
+}
