@@ -1,3 +1,6 @@
+body {
+  overflow-x: hidden; /* Hide horizontal scrollbars */
+}
 .dots-bg-icon,
 .dots-bg-icon1 {
   position: absolute;
@@ -2350,5 +2353,35 @@
   .footerContent {
     position: absolute;
     left: 0%;
+  }
+
+  .group-div72 {
+    width: 1440px;
+    overflow: hidden !important;
+  }
+
+  .rectangle-div30 {
+    overflow: hidden !important;
+    width: 1450px;
+  }
+  .footer-big-5 {
+    width: 1455px;
+    overflow: hidden !important;
+  }
+
+  .searchPanel-frame-div {
+    left: 280px;
+  }
+  
+  .hero-three-div {
+    width: 1600px;
+  }
+  
+  .hero-real-estate-agent-inviting-you-icon {
+    width: 1600px;
+  }
+
+  .hero-group-div, .hero-group-icon {
+    left: 10%;
   }
 }
