@@ -65,42 +65,42 @@ function Footer(props) {
               <img className="group-icon12" alt="" src="icons/group-133.svg" />
             </div>
             <div className="group-div64">
-              <div className="resources-div">Resources</div>
+              <div className="resources-div cursor-pointer">Resources</div>
               <div className="list-items-div">
-                <div className="articles-div">Articles</div>
-                <div className="articles-div">Guides</div>
-                <div className="articles-div">Real Estate News</div>
+                <div className="articles-div cursor-pointer">Articles</div>
+                <div className="articles-div cursor-pointer">Guides</div>
+                <div className="articles-div cursor-pointer">Real Estate News</div>
               </div>
             </div>
             <div className="group-div65">
               <div className="resources-div">Company</div>
               <div className="list-items-div1">
                 <div className="group-div66">
-                  <div className="about-div">About</div>
-                  <div className="blog-div">Blog</div>
-                  <div className="faq-div">Contact</div>
+                  <div className="about-div cursor-pointer">About</div>
+                  <div className="blog-div cursor-pointer">Blog</div>
+                  <div className="faq-div cursor-pointer">Contact</div>
                   <div className="careers-div">
-                    <div className="articles-div">Careers</div>
-                    <div className="were-hiring-div">We’re hiring</div>
+                    <div className="articles-div cursor-pointer">Careers</div>
+                    <div className="were-hiring-div cursor-pointer">We’re hiring</div>
                   </div>
                 </div>
               </div>
             </div>
             <div className="group-div67">
-              <div className="resources-div">Agentbook</div>
+              <div className="resources-div cursor-pointer">Agentbook</div>
               <div className="group-div68">
-                <div className="about-div">Search for agent</div>
-                <div className="blog-div">Search for sale</div>
-                <div className="faq-div">FAQ</div>
+                <div className="about-div cursor-pointer">Search for agent</div>
+                <div className="blog-div cursor-pointer">Search for sale</div>
+                <div className="faq-div cursor-pointer">FAQ</div>
               </div>
             </div>
           </div>
           <div className="group-div69">
-            <div className="about-div">2022 Agentbook All Rights Reserved</div>
+            <div className="about-div ">2022 Agentbook All Rights Reserved</div>
             <div className="group-div70">
-              <div className="about-div">Terms & Conditions</div>
-              <div className="privacy-policy-div">Privacy Policy</div>
-              <div className="cookie-policy-div">Cookie Policy</div>
+              <div className="about-div cursor-pointer">Terms & Conditions</div>
+              <div className="privacy-policy-div cursor-pointer">Privacy Policy</div>
+              <div className="cookie-policy-div cursor-pointer">Cookie Policy</div>
             </div>
           </div>
           <div className="line-div8"></div>

@@ -2306,6 +2306,9 @@ body {
   left: 10%;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
 @media (max-width: 1600px) {
   .group-div {
     position: absolute;
